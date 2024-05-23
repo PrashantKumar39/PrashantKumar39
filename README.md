@@ -7,88 +7,97 @@
 <h1 align="center">🍁𝐇𝐢 👋, 𝐈'𝐦 𝐏𝐫𝐚𝐬𝐡𝐚𝐧𝐭 𝐊𝐮𝐦𝐚𝐫🍁</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pks1234&label=Profile%20views&color=0e75b6&style=flat" alt="pks1234" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/nishant singh" target="blank"><img src="https://img.shields.io/twitter/follow/nishant singh?logo=twitter&style=for-the-badge" alt="nishant singh" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+<h2> 🌈 &nbsp;About Me:</h2>
 
-- 🌱 I’m currently learning **𝘗𝘺𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘕𝘶𝘮𝘱𝘺, 𝘗𝘯𝘢𝘥𝘢𝘴, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨
+```yaml
+Name: Prashant Kumar
+Pronouns: He/Him
+located_in: Bihar, India
+education: B.Tech. pre final Year Student @Saran, Bihar
+fields_of_interests:
+  [
+    "Data Analysis ",
+    "Data Analysis ",
+  ]
+hobbies: ["Cricket", "Exploring New Things"]
+```
+<h2> 🚀 &nbsp;Languages and Tools:</h2>
+<p align="left">
+<table>
+<tr><th>Languages</th> <th>Libraries</th><th>Softwares</th>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" />
+    </td>  
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql workbench" width="45" height="45"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
+    </td>
+  </tr> 
+</table>
+<p align="left">
+  <a href="https://github.com/prashantKumar39">
+    <img src="https://img.shields.io/github/followers/prashantKumar39?label=Follow&style=social" alt="GitHub prashantKumar39" />
+  </a>
+</p>
+<h2> 📫 &nbsp;Connect With Me:</h2>                                                                                                             
+<p>
+  <a href="https://www.linkedin.com/feed/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:prashantkumar.bheldi@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="Prashant Kumar" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/prashantyt53/" target="blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="LeetCode" height="30" width="30" />
+  </a>
+</p>
 
-- 👯 I’m looking to collaborate on **Data Science **
-
-- 🤝 I’m looking for help with **Data Analysis**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pky1234](https://github.com/Pky1234)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/prashant-kumar-b00b32243](https://www.linkedin.com/in/prashant-kumar-b00b32243)
-
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **prashantkumaryt53@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/prashant-kumar-b00b32243](https://www.linkedin.com/in/prashant-kumar-b00b32243)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pks1234" alt="pks1234" /></a> </p>
-
-
-# 🌐 𝒮𝒪𝒞𝐼𝒜𝐿𝒮:
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant kumar" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
+<h2> 📍 &nbsp;Visitor's Count:</h2>
+<a align="center" href="https://profile-counter.glitch.me/PrashantKumar39/count.svg">
+  <img src="https://profile-counter.glitch.me/PrashantKumar39/count.svg" alt="VisitorCount" />
 </a>
-
-<a href="https://auth.github.org/user/prashankumar39" target="_blank">
-  <img src="https://img.shields.io/badge/Github-%23FFD700.svg?logo=Github&logoColor=white" alt="Github" style="width: 80px; height: 40px; border: 4px solid #ffd700; border-radius: 10px;">
-</a>
-
-<a href="https://Kaggle.com/in/https://www.Kaggle.com/in/prashant kumar" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white" alt="Kaggle" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
-</a>
-
-<a href="https://leetcode.com/prashantyt53/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
-</a>
-
-
-<a href="https://facebook.com/groups/Nishant Singh/" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="width: 80px; height: 40px; border: 4px solid #3b5998; border-radius: 10px;">
-</a>
-
-
-<a href="https://www.instagram.com/nishan_sing_h=MXd0a2J4ZGwyZnZreg==" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px;">
-</a>
-
-<a href="https://twitter.com/https://twitter.com/Nishant Singh" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 80px; height: 40px; border: 4px solid #1da1f2; border-radius: 10px;">
-</a>
-
-
-<a href="https://Python.com//" target="_blank">
-  <img src="https://img.shields.io/badge/Pyhton-%231877F2.svg?logo=Python&logoColor=white" alt="Python" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
-</a>
-
-<h3> &#x1f4c8; GitHub Stats</h3>
-<div align="center" >
-    <a  href="https://github.com/Prashantkumar39">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prashantkumar39&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkumar39&theme=dark" width="100%" height="50%">
-</a>
-</div>
 
 <hr>
-  
-<hr>
-</div>
-
-h3 align="center">Contribution Graph </h3>
-  
-[![Vinaykumarmahato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashantkumar39&theme=github-compact)](https://github.com/Prashantkumar39/github-readme-activity-graph)
 
 
-## ✍️ Know More About me:
-<a href="https://Prashantkumar39.github.io/Linktree/">
-  <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
-</a>
+<h2> 📊 &nbsp;Github Activity:</h2>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=PrashantKumar39&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKumar39&theme=radical&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,PureBasic,Shell"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantKumar39&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+   <td>
+  </td>
+  </tr>
+</table>
+
+<h2> 📈 &nbsp;Productivity Stats:</h2>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantKumar39&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
