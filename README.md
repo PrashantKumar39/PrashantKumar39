@@ -1,11 +1,11 @@
 <!-- Welcome Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=🌷𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐆𝐢𝐭𝐇𝐮𝐛+𝐏𝐫𝐨𝐟𝐢𝐥𝐞🌹">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=20&center=true&vCenter=true&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐭𝐨+𝐦𝐲+𝐆𝐢𝐭𝐇𝐮𝐛+𝐏𝐫𝐨𝐟𝐢𝐥𝐞">
 </h1>
 
 
 <h1 align="center">🍁𝐇𝐢 👋, 𝐈'𝐦 𝐏𝐫𝐚𝐬𝐡𝐚𝐧𝐭 𝐊𝐮𝐦𝐚𝐫🍁</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pks1234&label=Profile%20views&color=0e75b6&style=flat" alt="pks1234" /> </p>
