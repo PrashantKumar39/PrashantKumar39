@@ -4,7 +4,7 @@
 </h1>
 
 
-<h1 align="center">🍁𝐇𝐢 👋, 𝐈'𝐦 𝐏𝐫𝐚𝐬𝐡𝐚𝐧𝐭 𝐊𝐮𝐦𝐚𝐫🍁</h1>
+<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐏𝐫𝐚𝐬𝐡𝐚𝐧𝐭 𝐊𝐮𝐦𝐚𝐫</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
