@@ -81,12 +81,7 @@ hobbies: ["Reading", "Exploring New Things"]
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=PrashantKumar39&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantKumar39&theme=radical&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,PureBasic,Shell"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantKumar39&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-   <td>
-  </td>
-  </tr>
+   
 </table>
 
 <h2> 📈 &nbsp;Productivity Stats:</h2>
