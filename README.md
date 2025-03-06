@@ -5,27 +5,24 @@
 
 
 <h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐏𝐫𝐚𝐬𝐡𝐚𝐧𝐭 𝐊𝐮𝐦𝐚𝐫</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A results-driven professional from India, passionate about Data Science and Machine Learning innovation.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pks1234&label=Profile%20views&color=0e75b6&style=flat" alt="pks1234" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/nishant singh" target="blank"><img src="https://img.shields.io/twitter/follow/nishant singh?logo=twitter&style=for-the-badge" alt="nishant singh" /></a> </p>
 
 <h2> 🌈 &nbsp;About Me:</h2>
 
 ```yaml
 Name: Prashant Kumar
 Pronouns: He/Him
-located_in: Bihar, India
-education: B.Tech. pre final Year Student @Saran, Bihar
+located_in: India
+education: B.Tech. Final Year Student at Anna University 
 fields_of_interests:
   [
-    "Data Analysis ",
-    "Data Analysis ",
+    "Data Scientist",
+    "Machine Learning Engineer",
   ]
-hobbies: ["Cricket", "Exploring New Things"]
+hobbies: ["Reading", "Exploring New Things"]
 ```
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
