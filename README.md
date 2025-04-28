@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meenal900/meenal900/main/github-header-image.png" width="1000" alt="Header Image">
+</p>
+
+
 <!-- Welcome Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF6347&size=25&center=true&vCenter=true&lines=Explore+My+Tech+Journey+on+GitHub+✨">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF6347&size=25&center=true&vCenter=true&lines=✨+PRASHANT+KUMAR+✨">
 </h1>
 
 
