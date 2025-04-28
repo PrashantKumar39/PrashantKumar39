@@ -101,12 +101,10 @@ Career Goals: Seeking full-time opportunities in Data Science & AI to drive inno
   </tr>
 </table>
 
-<h2 style="color: #FFC107;"> 📈 &nbsp;Productivity Stats:</h2>
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrashantKumar39&theme=solarized_light" display=block width="100%" height="auto" alt="1"></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/meenal900/meenal900/main/snake.svg" style="width:700px; max-width:100%;" alt="Snake Image">
+</p>
+
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
