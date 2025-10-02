@@ -46,23 +46,20 @@
 ```yaml
 Name: Prashant Kumar
 Pronouns: He/Him
-Current Location: India 🌏
+Current Location: India 
 Education: B.Tech. Final Year Student in Information Technology at Anna University 🎓
 Professional Experience:
-  - Data Science Intern at Boston Consulting Group (BCG) 💼
-  - Machine Learning Intern at Suvidha Foundation 🤖
-  - AI & Data Analysis Intern at Edunet Foundation 📊
+  - Data Science Intern at Boston Consulting Group (BCG) 
+  - Machine Learning Intern at Suvidha Foundation 
+  - AI & Data Analysis Intern at Edunet Foundation �
 Kaggle Expertise: Kaggle Expert 🏆
-Skills & Tools:
-  - Python, SQL, Streamlit, Linux, Excel, Tableau 📈
-  - Statistics, Data Science, Machine Learning 🤖
 Areas of Interest:
-  - Data Science & Data Analysis 📊
-  - Machine Learning & Artificial Intelligence 🤖
+  - Data Science & Data Analysis �
+  - Machine Learning & Artificial Intelligence �
 Hobbies:
   - Reading 📚
-  - Exploring New Technologies and Innovations 🔍
-Career Goals: Seeking full-time opportunities in Data Science & AI to drive innovation and deliver impactful solutions 🌟
+  - Exploring New Technologies and Innovations 
+Career Goals: Seeking full-time opportunities in Data Science & AI to drive innovation and deliver impactful solutions 
 ```
 
 --- 
@@ -103,7 +100,7 @@ Career Goals: Seeking full-time opportunities in Data Science & AI to drive inno
 
 ---
 
-<h2 style="color: #4CAF50;"> 📊 &nbsp;Github Activity:</h2>
+<h2 style="color: #4CAF50;">  &nbsp;Github Activity:</h2>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=PrashantKumar39&theme=light&show_icons=true" display=block width="100%" height="auto" alt="1"></td>
