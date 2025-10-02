@@ -3,7 +3,7 @@
 </p>
 <!-- <img width="2048" height="512" alt="Gemini_Generated_Image_2t9r4s2t9r4s2t9r" src="https://github.com/user-attachments/assets/b10ce118-f6e9-4a1f-b9a3-19a733e62f03" /> -->
 
-
+--- 
 <!-- Welcome Section -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF6347&size=25&center=true&vCenter=true&lines=✨+PRASHANT+KUMAR+✨">
@@ -20,6 +20,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pks1234&label=Profile%20views&color=0e75b6&style=flat" alt="pks1234" /> </p>
 
+<h3>Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/prashant-kumar-ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/prashantkumaryt" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://prashantkumar39.github.io/Prashant-kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:prashantkumaryt53@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+ ---  
+ 
 <h2> 🌈 &nbsp;About Me:</h2>
 
 ```yaml
@@ -44,6 +65,7 @@ Hobbies:
 Career Goals: Seeking full-time opportunities in Data Science & AI to drive innovation and deliver impactful solutions 🌟
 ```
 
+--- 
 ### My Skills
 
 <p align="left">
@@ -79,19 +101,7 @@ Career Goals: Seeking full-time opportunities in Data Science & AI to drive inno
 </p>
 
 
-<h2> 🌍 &nbsp;Let’s Build Something Great:</h2>                                                                                                             
-<p>
-  <a href="https://www.linkedin.com/in/prashant-kumar-ai/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-  <a href="mailto:prashantkumaryt53@gmail.com" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/93239528/180371969-0bdb9728-5766-4b84-a64f-5a6002f9ad64.svg" alt="Prashant Kumar" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/prashantyt53/" target="blank">
-    <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" alt="LeetCode" height="30" width="30" />
-  </a>
-</p>
-
+---
 
 <h2 style="color: #4CAF50;"> 📊 &nbsp;Github Activity:</h2>
 <table>
